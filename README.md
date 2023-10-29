@@ -7,5 +7,5 @@ Engine Performance Enhancement: Designed an end-to-end pipeline for Air-Fuel Rat
 
 Glimps of results of SUPRA 2021
 
-![Veloce Racing](https://example.com/path/to/your-image.png)
+![Veloce Racing](https://github.com/sohampadhye007/FuelRatioAI-Precision-Air-Fuel-Ratio-Prediction-using-machine-learning/blob/main/Supra_Winner.jpg?raw=true)
 
